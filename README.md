@@ -1,1 +1,1 @@
-# Data-Mining-Project
+# CS470: Data Mining
